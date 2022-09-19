@@ -1,6 +1,6 @@
-# Escola municipal Gildo veríssimo
+# Escola Municipal Gildo Veríssimo
 
-# disciplina: língua portuguesa
+# Disciplina: língua portuguesa
 
 ### professor: Marcos
 
@@ -10,7 +10,7 @@
 
 ---
 
-### o que é Instagram?
+### O que é Instagram?
 ___
 
 ![[1025px-Instagram-Icon 2.png]]
